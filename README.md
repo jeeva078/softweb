@@ -705,6 +705,15 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+### home.html
+![Screenshot (12)](https://github.com/jeeva078/softweb/assets/147048597/73198a50-eb1b-4e6f-ab8a-330d5187c290)
+### product.html
+![Screenshot (13)](https://github.com/jeeva078/softweb/assets/147048597/72157373-c5a1-4960-9f19-ca0fff3b071a)
+### people.html
+![Screenshot (14)](https://github.com/jeeva078/softweb/assets/147048597/2fe53169-5072-41dc-b4c9-672a1f8b9460)
+### contact.html
+![Screenshot (15)](https://github.com/jeeva078/softweb/assets/147048597/d5b774fa-59d1-4700-8c2e-5cce681e88cf)
+
 
 
 ## RESULT:
